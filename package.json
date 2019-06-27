@@ -1,0 +1,29 @@
+{
+  "name": "noda",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Galaxy97/node-js.git"
+  },
+  "author": "galaxy97",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Galaxy97/node-js/issues"
+  },
+  "homepage": "https://github.com/Galaxy97/node-js#readme",
+  "devDependencies": {
+    "eslint": "^6.0.1",
+    "nodemon": "^1.19.1"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^1.19.1"
+  }
+}
